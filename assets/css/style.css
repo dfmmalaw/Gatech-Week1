@@ -1,0 +1,18 @@
+li {
+	float: right;
+    padding: 15px;
+    list-style-type: none;
+    position: relative;
+    bottom: 60px;
+}
+
+article > section {
+    width: 460px;
+}
+
+aside {
+	float: right;
+    position: relative;
+    bottom: 257px;
+    right: 85px;
+}
